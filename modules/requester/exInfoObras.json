@@ -1,0 +1,241 @@
+{
+  "CodigoSnip":"145023",
+  "ObraId":"026191",
+  "ObraDesc":"MEJORAMIENTO DE LA CAPACIDAD RESOLUTIVA DEL CENTRO DE SALUD MANZANARES NIVEL I-4 MICRORED HUALMAY, RED DE SALUD HUAURA OYON",
+  "Ejecutora":"GOBIERNO REGIONAL DE LIMA SEDE CENTRAL",
+  "ObraDir":"MANZANARES, DISTRITO DE HUACHO, PROVINCIA DE MANZANARES",
+  "Residente":"MIGUEL EDGAR. PEREZ NAVARRO",
+  "InicioObra":"28/01/2015",
+  "Rubro":"SALUD",
+  "Ubigeo":
+  {
+    "CDPT_CD_DPTO":"15",
+    "CDPT_DPTO":"LIMA",
+    "CPRV_CODIGO":"08",
+    "CPRV_PROV":"HUAURA",
+    "CDST_CODIGO":"01",
+    "CDST_DISTRIT":"HUACHO",
+    "LATITUD":0.0,
+    "LONGITUD":0.0,
+    "ZOOM":0,
+    "CPOB_NOMBRE":null,
+    "CPOB_CODIGO":null
+  },
+  "Coordenadas":
+  {
+    "NCOR_ID":0,
+    "NOBR_ID":0,
+    "NCOR_ORDEN":0,
+    "NCOR_LONGIT":-77.612455,
+    "NCOR_LATITU":-11.12924460,
+    "NCOR_LONGI2":-77.61221630,
+    "NCOR_LATIT2":-11.12905250,
+    "CCOR_ESTREG":null,
+    "CCOR_KMLID":null,
+    "NCOR_ZOOM":0,
+    "CAUD_USUCRE":null,
+    "DAUD_FECCRE":null,
+    "CAUD_USUMOD":null,
+    "DAUD_FECMOD":null,
+    "obj_COORDENADAS_SNO_OBRA_SNO":null
+  },
+  "Avances":
+  [
+    {
+      "Periodo":"Ene 2015",
+      "Fecha":"18/02/2015",
+      "AvFisAcumReal":3.02,
+      "AvFisAcumProg":0.17,
+      "AvValAcumReal":215452.20,
+      "AvValAcumProg":12277.94,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Feb 2015",
+      "Fecha":"10/03/2015",
+      "AvFisAcumReal":6.38,
+      "AvFisAcumProg":0.66,
+      "AvValAcumReal":455191.42,
+      "AvValAcumProg":46940.03,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Mar 2015",
+      "Fecha":"13/04/2015",
+      "AvFisAcumReal":11.98,
+      "AvFisAcumProg":3.37,
+      "AvValAcumReal":854676.10,
+      "AvValAcumProg":240126.71,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Abr 2015",
+      "Fecha":"15/07/2015",
+      "AvFisAcumReal":18.61,
+      "AvFisAcumProg":7.88,
+      "AvValAcumReal":1327295.40,
+      "AvValAcumProg":561857.92,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"May 2015",
+      "Fecha":"15/07/2015",
+      "AvFisAcumReal":28.40,
+      "AvFisAcumProg":17.70,
+      "AvValAcumReal":2026057.50,
+      "AvValAcumProg":1048529.20,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Jun 2015",
+      "Fecha":"31/07/2015",
+      "AvFisAcumReal":42.48,
+      "AvFisAcumProg":21.95,
+      "AvValAcumReal":3030175.86,
+      "AvValAcumProg":1565700.04,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Jul 2015",
+      "Fecha":"13/08/2015",
+      "AvFisAcumReal":56.78,
+      "AvFisAcumProg":31.39,
+      "AvValAcumReal":4050684.11,
+      "AvValAcumProg":2239071.67,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Ago 2015",
+      "Fecha":"10/11/2015",
+      "AvFisAcumReal":56.78,
+      "AvFisAcumProg":40.25,
+      "AvValAcumReal":4050684.11,
+      "AvValAcumProg":2870960.90,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Set 2015",
+      "Fecha":"10/11/2015",
+      "AvFisAcumReal":73.85,
+      "AvFisAcumProg":60.84,
+      "AvValAcumReal":5267934.19,
+      "AvValAcumProg":4339781.20,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Oct 2015",
+      "Fecha":"13/01/2016",
+      "AvFisAcumReal":73.85,
+      "AvFisAcumProg":100.0,
+      "AvValAcumReal":5267934.19,
+      "AvValAcumProg":7133549.40,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Nov 2015",
+      "Fecha":"13/01/2016",
+      "AvFisAcumReal":73.85,
+      "AvFisAcumProg":100.0,
+      "AvValAcumReal":5267934.19,
+      "AvValAcumProg":7133549.40,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Dic 2015",
+      "Fecha":"09/02/2016",
+      "AvFisAcumReal":74.28,
+      "AvFisAcumProg":100.0,
+      "AvValAcumReal":5298106.97,
+      "AvValAcumProg":7133548.40,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Ene 2016",
+      "Fecha":"07/06/2016",
+      "AvFisAcumReal":74.50,
+      "AvFisAcumProg":100.0,
+      "AvValAcumReal":5313998.01,
+      "AvValAcumProg":7133549.40,
+      "Estado":"PUBLICADO"
+    },
+    {
+      "Periodo":"Feb 2016",
+      "Fecha":"08/06/2016",
+      "AvFisAcumReal":74.78,
+      "AvFisAcumProg":100.0,
+      "AvValAcumReal":5742843.64,
+      "AvValAcumProg":7133549.40,
+      "Estado":"PUBLICADO"
+      },
+      {
+        "Periodo":"Mar 2016",
+        "Fecha":"14/06/2016",
+        "AvFisAcumReal":74.78,
+        "AvFisAcumProg":100.0,
+        "AvValAcumReal":5334376.76,
+        "AvValAcumProg":7133549.40,
+        "Estado":"PUBLICADO"
+      },
+      {
+        "Periodo":"Abr 2016",
+        "Fecha":"15/07/2016",
+        "AvFisAcumReal":87.62,
+        "AvFisAcumProg":76.21,
+        "AvValAcumReal":6250484.48,
+        "AvValAcumProg":5436086.92,
+        "Estado":"SIN PUBLICAR"
+      },
+      {
+        "Periodo":"May 2016",
+        "Fecha":"01/02/2017",
+        "AvFisAcumReal":89.27,
+        "AvFisAcumProg":100.0,
+        "AvValAcumReal":6367936.17,
+        "AvValAcumProg":7133548.40,
+        "Estado":"SIN PUBLICAR"
+      }
+    ]
+  },
+  {
+    "CodigoSnip":"145023",
+    "ObraId":"087817",
+    "ObraDesc":"MEJORAMIENTO DE LA CAPACIDAD RESOLUTIVA DEL CENTRO DE SALUD MANZANARES NIVEL I-4 MICRORED HUALMAY, RED DE SALUD HUAURA OYON-SALDO DE OBRA.",
+    "Ejecutora":"GOBIERNO REGIONAL DE LIMA SEDE CENTRAL",
+    "ObraDir":"MANZANARES-HUACHO-REGION LIMA.",
+    "Residente":"",
+    "InicioObra":"",
+    "Rubro":"SALUD",
+    "Ubigeo":
+      {
+        "CDPT_CD_DPTO":"15",
+        "CDPT_DPTO":"LIMA",
+        "CPRV_CODIGO":"08",
+        "CPRV_PROV":"HUAURA",
+        "CDST_CODIGO":"01",
+        "CDST_DISTRIT":"HUACHO",
+        "LATITUD":0.0,
+        "LONGITUD":0.0,
+        "ZOOM":0,
+        "CPOB_NOMBRE":null,
+        "CPOB_CODIGO":null
+      },
+    "Coordenadas":
+      {
+        "NCOR_ID":0,
+        "NOBR_ID":0,
+        "NCOR_ORDEN":0,
+        "NCOR_LONGIT":-77.61309950,
+        "NCOR_LATITU":-11.12850650,
+        "NCOR_LONGI2":0.0,
+        "NCOR_LATIT2":0.0,
+        "CCOR_ESTREG":null,
+        "CCOR_KMLID":null,
+        "NCOR_ZOOM":0,
+        "CAUD_USUCRE":null,
+        "DAUD_FECCRE":null,
+        "CAUD_USUMOD":null,
+        "DAUD_FECMOD":null,
+        "obj_COORDENADAS_SNO_OBRA_SNO":null
+      },
+    "Avances":null
+  }
